@@ -1,0 +1,9 @@
+Easy Bypass
+
+Kategorie: Reverse Engineering
+Schwierigkeit: Easy
+Author: Jonny
+
+Can you Bypass the authentication and find my Flag ?
+
+Download: Easy_Bypass.zip and unzip it. You may need to install .NET 6 Runtime if you donn't have it.
